@@ -147,9 +147,10 @@ button {
 }
 
 .card {
-  background-color: #fff;
+  background-color: #1A0C00;
   margin-bottom: 20px;
   height: 100%;
+  color: #fff;
 }
 
 .card__title {
@@ -239,7 +240,7 @@ button {
 * Color
 *********************/
 .bg-color--keycolor {
-  background-color: #39b54a;
+  background-color: #7E0F09;
 }
 
 .bg-color--subcolor {
@@ -276,6 +277,7 @@ button {
   padding: 9px 20px;
   background-color: #d9e021;
   margin: 0 -20px 20px -20px;
+  color: #7E0F09;
 }
 
 .section-title__stage {
@@ -284,7 +286,7 @@ button {
 }
 
 .section-title--keycolorlight {
-  background-color: #8cc63f;
+  background-color: #F5F5DC;
 }
 
 .section-title--keycolorlight .section-title__stage {
@@ -336,7 +338,7 @@ button {
   display: block;
   text-decoration: none;
   cursor: pointer;
-  background-color: #006837;
+  background-color: #3E1E00;
   color: #fff;
   font-size: 24px;
   line-height: 1.54167;

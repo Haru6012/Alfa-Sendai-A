@@ -447,12 +447,20 @@ button {
   color: #c1272d;
   font-size: 18px;
   text-align: center;
+  background-color: #F5F5DC;
+  width: fit-content;
+  margin: auto;
+  margin-bottom: 10px;
 }
 
 .link-hint {
   text-align: center;
   display: block;
   margin-top: 20px;
+  background-color: #F5F5DC;
+  width: fit-content;
+  margin: auto;
+  margin-top: 5px;
 }
 
 .clear-message {

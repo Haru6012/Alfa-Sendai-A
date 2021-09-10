@@ -310,7 +310,7 @@ button {
   line-height: 1.06667;
   margin: 0;
   padding-bottom: 15px;
-  color: #006837;
+  color: #f5f5dc;
 }
 
 .section-title--border::after {
@@ -319,7 +319,7 @@ button {
   left: calc(50% - 95px);
   display: block;
   content: '';
-  background-color: #fff;
+  background-color: #f5f5dc;
   height: 2.6px;
   width: 190px;
 }

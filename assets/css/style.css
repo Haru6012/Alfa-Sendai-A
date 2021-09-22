@@ -521,4 +521,8 @@ button {
 .hidden {
   display: none;
 }
+
+.last_text{
+  color: #f5f5dc;
+}
 /*# sourceMappingURL=style.css.map */
